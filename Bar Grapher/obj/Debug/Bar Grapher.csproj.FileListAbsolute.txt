@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\bin\Debug\Bar Grapher.exe.config
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\bin\Debug\Bar Grapher.exe
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\bin\Debug\Bar Grapher.pdb
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar Grapher.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar_Grapher.Form1.resources
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar_Grapher.Properties.Resources.resources
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar Grapher.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar Grapher.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar Grapher.exe
+C:\Users\Jason\source\repos\Bar Grapher\Bar Grapher\obj\Debug\Bar Grapher.pdb
